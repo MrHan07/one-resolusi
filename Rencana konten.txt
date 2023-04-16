@@ -4,3 +4,4 @@ Rencana konten baru
   *ES6
   *FREMWORK
 -VLOG
+-FUN
