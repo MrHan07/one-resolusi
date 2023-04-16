@@ -1,7 +1,8 @@
 Rencana konten baru
 -PHP
+ *lARAVEL
 -JAVA
   *ES6
   *FREMWORK
--VLOG
+  *ANGULAR
 -FUN
