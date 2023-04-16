@@ -1,7 +1,10 @@
 Rencana konten baru
 -PHP
+ *Laravel
 -JAVA
   *ES6
   *FREMWORK
+  *View
 -VLOG
 -FUN
+-Phyton
